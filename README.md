@@ -1,5 +1,6 @@
 # Suggestion Tracker
 Welcome to the Suggestion Tracker for our game Eco!
+
 If you want to post a new suggestion, either click the "Issues" tab or click on this link: https://github.com/StrangeLoopGames/EcoSuggestions/issues
 
 All your suggestions are appreciated. We do read, discuss and categorize them internally.
