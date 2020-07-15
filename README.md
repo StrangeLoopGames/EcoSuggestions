@@ -16,4 +16,5 @@ When posting a suggestion,  please follow these guidelines to help assist the de
 ### Voting for Suggestions
 We want to encourage you to discuss about suggestions in their comments and to vote for them if you like them.
 If you like or dislike a suggestion, please give the opening post a thumbs-up (👍) or thumbs-down (👎) reaction. We do take those into account when discussing suggestions.
+
 **Please note that ONLY thumbs-up (👍) and thumbs-down (👎) reactions are taken into account, any other reactions are not taken into account.**
