@@ -1,5 +1,9 @@
 # Suggestion Tracker
-Welcome to the Suggestion Tracker for our game Eco!
+We have moved our tracking for feature and improvement suggestions to Canny, which allows voting on feedback: https://feedback.play.eco.
+Please feel free to use that tracker intensively, this repository has been archived and its existing suggestions will continue to serve us as inspiration for development.
+
+Old Description:
+<summary>Welcome to the Suggestion Tracker for our game Eco!
 
 If you want to post a new suggestion, either click the "Issues" tab or click on this link: https://github.com/StrangeLoopGames/EcoSuggestions/issues
 
@@ -17,4 +21,4 @@ When posting a suggestion,  please follow these guidelines to help assist the de
 We want to encourage you to discuss about suggestions in their comments and to vote for them if you like them.
 If you like or dislike a suggestion, please give the opening post a thumbs-up (👍) or thumbs-down (👎) reaction. We do take those into account when discussing suggestions.
 
-**Please note that ONLY thumbs-up (👍) and thumbs-down (👎) reactions are taken into account, any other reactions are not taken into account.**
+**Please note that ONLY thumbs-up (👍) and thumbs-down (👎) reactions are taken into account, any other reactions are not taken into account.**</summary>
