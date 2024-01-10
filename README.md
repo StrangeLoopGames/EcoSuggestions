@@ -1,6 +1,6 @@
 # Suggestion Tracker
 We have moved our tracking for feature and improvement suggestions to Canny, which allows voting on feedback: https://feedback.play.eco.
-Please feel free to use that intensively. This repository is archived and its existing suggestions continue to serve us as inspiration for development.
+Please feel free to use that intensively. This repository is archived and its existing suggestions continue to serve as inspiration for development.
 
 <details>
 <summary>Old Description</summary>
