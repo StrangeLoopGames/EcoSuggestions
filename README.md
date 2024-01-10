@@ -2,7 +2,6 @@
 We have moved our tracking for feature and improvement suggestions to Canny, which allows voting on feedback: https://feedback.play.eco.
 Please feel free to use that tracker intensively, this repository has been archived and its existing suggestions will continue to serve us as inspiration for development.
 
-Old Description:
 <details>
 <summary>Old Description</summary>
 Welcome to the Suggestion Tracker for our game Eco!
